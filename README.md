@@ -7,14 +7,14 @@ Projecte FPS 3D plataformer, horror sci-fi
 
 # REPARTIMENT FEINA
 <QUIM>
- <CODI PERSONATGE>
+ <CODI PERSONATGE> /Scripts/PlayerController.cs
  <CODI ARMES>
- <CODI ENEMICS>
+ <CODI ENEMICS> /Scripts/EnemyControllerDron.cs , /Scripts/EnemyControllerTurret.cs
 
 <DAVID>
- <AUDIOS, ANIMACIONS>
- <MAPA>
- <MISC>
+ <AUDIOS ANIMACIONS>
+ <MAPA #>
+ <MISC #>
 
 <DANI>
  <MAQUINA ESTATS DE ACABAR JOC>
